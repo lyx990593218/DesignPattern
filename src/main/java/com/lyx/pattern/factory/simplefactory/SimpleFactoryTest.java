@@ -6,7 +6,7 @@ import com.lyx.pattern.factory.ICar;
 
 /**
  * 小作坊式的工厂模型
- * Created by lyx.
+ * Created by lyx1.
  */
 public class SimpleFactoryTest {
 
